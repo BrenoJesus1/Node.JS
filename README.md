@@ -8,7 +8,7 @@ Este repositório reúne exercícios e implementações desenvolvidas em Node.js
 
 ## 📘 Estrutura dos Projetos
 
-### 🖨️ Desafio Print (Leitura de CSV + API)
+### 🖨️ Desafio Fundamentos (Leitura de CSV + API)
 
 Exercício prático que consiste em:
 
