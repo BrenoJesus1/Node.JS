@@ -1,0 +1,36 @@
+{
+  "tasks": [
+    {
+      "id": "258c7813-a5ab-4cab-b23b-491de866af96",
+      "title": "Task 01",
+      "description": "Comprar Alho",
+      "created_at": "15/08/2025, 12:11",
+      "updated_at": "15/08/2025, 12:58",
+      "completed_at": "15/08/2025, 12:58"
+    },
+    {
+      "id": "8374ede2-2b49-44c8-a8dc-7199e4b1fb1b",
+      "title": "Task 02",
+      "description": "Comprar Zinco",
+      "created_at": "15/08/2025, 12:11",
+      "updated_at": "15/08/2025, 12:58",
+      "completed_at": null
+    },
+    {
+      "id": "9fa71ba6-443f-4f7b-b39b-87a846155e50",
+      "title": "Task 03",
+      "description": "Comprar Cenoura",
+      "created_at": "15/08/2025, 12:11",
+      "updated_at": null,
+      "completed_at": null
+    },
+    {
+      "id": "7d0044ed-84d1-447c-9c8d-ab5b2fe90adc",
+      "title": "Task 04",
+      "description": "Comprar Damasco",
+      "created_at": "15/08/2025, 12:11",
+      "updated_at": null,
+      "completed_at": null
+    }
+  ]
+}
